@@ -1,13 +1,13 @@
 === GoAbroad HQ Plugin ===
-Contributors: destruire
+Contributors: Carl Nesse, Jared Hall, destruire
 Tags: go abroad, hq, abroad, go, crm, GO Abroad HQ, Go abroad, goabroad, goabroadhq, GOAbroad HQ, GOAbroadHQ
-Donate link: http://www.paypal.me/darrenalba
+Donate link: https://www.goabroadhq.com/
 Requires at least: 4.8.1
 Tested up to: 4.8.1
 Requires PHP: 3.7
 Stable tag: 1.6.2
-License: GPLv2 or later
-License URI: http://www.darrenalba.com/
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
  
 For HQ Clients
 
